@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.1" sequence="0" timestamp="1511132327000" analysisTimestamp="1511132417322" release="">
+  <Project projectName="CS1632_Test_Deliverable5">
+    <Jar>/Users/zhengsiming/Desktop/CS1632_D5/Pairwise.class</Jar>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Sun, 19 Nov 2017 17:58:47 -0500" total_classes="1" referenced_classes="17" total_bugs="0" total_size="66" num_packages="1" java_version="1.8.0_91" vm_version="25.91-b14" cpu_seconds="7.32" clock_seconds="21.66" peak_mbytes="289.25" alloc_mbytes="683.00" gc_seconds="0.07">
+    <PackageStats package="" total_bugs="0" total_types="1" total_size="66">
+      <ClassStats class="Pairwise" sourceFile="Pairwise.java" interface="false" size="66" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="395" invocations="407" avgMicrosecondsPerInvocation="972" maxMicrosecondsPerInvocation="79029" standardDeviationMircosecondsPerInvocation="4186"/>
+      <ClassProfile name="edu.umd.cs.findbugs.FindBugs2" totalMilliseconds="177" invocations="2" avgMicrosecondsPerInvocation="88516" maxMicrosecondsPerInvocation="151578" standardDeviationMircosecondsPerInvocation="63062"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="54" invocations="371" avgMicrosecondsPerInvocation="146" maxMicrosecondsPerInvocation="4733" standardDeviationMircosecondsPerInvocation="335"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="49" invocations="107" avgMicrosecondsPerInvocation="459" maxMicrosecondsPerInvocation="4511" standardDeviationMircosecondsPerInvocation="640"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="45" invocations="17" avgMicrosecondsPerInvocation="2675" maxMicrosecondsPerInvocation="8993" standardDeviationMircosecondsPerInvocation="2662"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="36" invocations="17" avgMicrosecondsPerInvocation="2135" maxMicrosecondsPerInvocation="11148" standardDeviationMircosecondsPerInvocation="2701"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="27" invocations="408" avgMicrosecondsPerInvocation="67" maxMicrosecondsPerInvocation="1070" standardDeviationMircosecondsPerInvocation="78"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
